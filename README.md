@@ -4,7 +4,8 @@ This project implements an image and video object detection classifier using pre
 
 Note: This works considering you have the weights and config files at the  directory.
 If the files are located somewhere else then mention the path while calling the main.py.
-
+ one more thing here,because of heavy weighted file github not supported to allow the file,for download the weights click below link nd add to your path.
+ (https://pjreddie.com/darknet/yolo/)
 
 ## Inference on images:
 ![im1](https://user-images.githubusercontent.com/76062756/135266661-df1be78d-49d2-44d3-8ac4-34e7dbdbeffe.png)
